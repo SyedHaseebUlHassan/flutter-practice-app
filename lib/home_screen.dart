@@ -43,7 +43,7 @@ class _home_screenState extends State<home_screen> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: null,
-        child: Text("Log Out"),
+        child: Text("LogOut"),
 
       ),
     );
